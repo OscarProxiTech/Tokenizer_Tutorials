@@ -28,7 +28,7 @@ uv --version
 ```
 
 ## MacOS
-
+### Not yet complete.
 
 ## Setting up a Python Project
 
